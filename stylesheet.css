@@ -1,9 +1,9 @@
-body{
-	background-page: url("https://st2.depositphotos.com/18508348/44667/i/450/depositphotos_446679552-stock-photo-space-wallpaper-banner-background-stunning.jpg");
+body {
+	background-image: url(https://st2.depositphotos.com/18508348/44667/i/450/depositphotos_446679552-stock-photo-space-wallpaper-banner-background-stunning.jpg);
 	image: url
 	background-size: cover;
 	}
-table{
+table {
 	font-family: Serif;
 	border-collapse: inherit;
 	color: #94D2F1;
@@ -11,13 +11,13 @@ table{
 	margin-right: auto;
 	padding: 25px;
 	}
-h1{	
+h1 {	
 	Font-family: fantasy;
 	color: #f19494;
 	text-align: center;
 	font-size:39px;
 	}
-h2{
+h2 {
 	Font-family:fantasy;
 	color:#f19494;
 	text-align: center;
