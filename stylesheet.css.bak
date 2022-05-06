@@ -13,7 +13,7 @@ table{
 	}
 h1{	
 	Font-family: fantasy;
-	color:#060684;
+	color:#f19494;
 	text-align: center;
 	font-size:39px;
 	}
@@ -25,3 +25,4 @@ h2{
 	}
 	
 
+#f19494
