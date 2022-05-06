@@ -1,4 +1,4 @@
-<!DOCTYPE html?
+<!DOCTYPE html>
 <html lang= "en">
 <head> 
 <meta charset= "UTF-8">
@@ -62,7 +62,7 @@
   </tr>
 
   </table>
-    <img src="image/planets.webp"  width="300" height="100">
+    <img src="image/planets.webp"  width="400" height="200">
 </table>
 </body>
 </html>
