@@ -1,7 +1,7 @@
 body{
-	background-imgage: url("image/spacepic.jpg");
-	background-size: cover
+	background-imgage: url("https://thumbs.dreamstime.com/b/space-wallpaper-banner-background-stunning-view-cosmic-galaxy-planets-space-objects-elements-image-space-209227412.jpg");
 	background-repeat: no-repeat;
+	background-size: cover
 	}
 table{
 	font-family: Serif;
