@@ -1,11 +1,11 @@
 body{
-	background-imgage: url("https://thumbs.dreamstime.com/b/space-wallpaper-banner-background-stunning-view-cosmic-galaxy-planets-space-objects-elements-image-space-209227412.jpg");
+	background-image: url("https://thumbs.dreamstime.com/b/space-wallpaper-banner-background-stunning-view-cosmic-galaxy-planets-space-objects-elements-image-space-209227412.jpg");
 	background-repeat: no-repeat;
 	background-size: cover
 	}
 table{
 	font-family: Serif;
-	boarder-collapse: inherit;
+	border-collapse: inherit;
 	color: #94D2F1;
 	margin-left: auto;
 	margin-right: auto;
@@ -14,12 +14,12 @@ table{
 h1{	
 	Font=family:fantasy;
 	color:#060684;
-	text: center;
+	text-align: center;
 	}
 h2{
 	Font=family:fantasy;
 	color:#060684;
-	text: center;
+	text-align: center;
 	}
 	
 
