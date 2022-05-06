@@ -1,5 +1,5 @@
 body{
-	background-imgage: url(image/spacepic.jpg");
+	background-imgage: url("image/spacepic.jpg");
 	background-size: cover
 	background-repeat: no-repeat;
 	}
@@ -23,4 +23,3 @@ h2{
 	}
 	
 
-	
