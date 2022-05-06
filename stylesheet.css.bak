@@ -1,7 +1,7 @@
 body{
 	background-image: url("https://st2.depositphotos.com/18508348/44667/i/450/depositphotos_446679552-stock-photo-space-wallpaper-banner-background-stunning.jpg");
 	background-repeat: no-repeat;
-	background-size: cover
+	background-size: cover;
 	}
 table{
 	font-family: Serif;
