@@ -6,7 +6,6 @@
 	<link rel="stylesheet" href="stylesheet.css">
 	</head>
 	<body>
-		<header>
 			<h1> The Planets </h1> 
 			<h2> Facts about the planets </h2> 
 <table class="tb">
@@ -17,7 +16,6 @@
 	<th class="tcell">Mars</th>
 	<th class="tcell">Saturn</th>
   </tr>
-  <tr>
   <tr>
     <th>Mass(kg)</th>
 	<td>1.0241×10<sup>26</sup></td>
@@ -56,7 +54,7 @@
 	<tr>
 	<th>Rotaion period (hr)</th>
 	<td>16.1</th>
-	<td>17.2 </th>
+	<td>17.2 </td>
 	<td>24.6</td>
 	<td>10.7</td>
 	</tr>
@@ -69,7 +67,7 @@
   </tr>
 
   </table>
-    <img src="image/planets.webp"  width="400" height="200">
+    <img src="image/planets.webp" alt= "Planets" width="400" height="200" class="center">
 </table>
 </body>
 </html>
